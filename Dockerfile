@@ -17,4 +17,5 @@ RUN apt-get update && \
     mkdir /root/.vnc
 
 #CMD ["systemctl enable --now xrdp"]
+
 #CMD ["bash"]
